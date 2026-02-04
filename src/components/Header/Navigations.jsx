@@ -131,7 +131,7 @@ const Navigations = () => {
 
               <footer className="text-center py-4">
                 <a
-                  href="https://www.linkedin.com/in/mahmoud-mansy-a189a5232/"
+                  href="https://www.linkedin.com/in/abbas-omer-07ab13380/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

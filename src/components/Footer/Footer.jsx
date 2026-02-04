@@ -122,8 +122,8 @@ const Footer = () => {
               {i18n.t("footer.support")}
             </Typography>
             <Typography gutterBottom>{i18n.t("footer.address")}</Typography>
-            <Typography variant="body2">exclusive@gmail.com</Typography>
-            <Typography variant="body2">+88015-88888-9999</Typography>
+            <Typography variant="body2">abbasomerhassn@gmail.com</Typography>
+            <Typography variant="body2">+250 794294091</Typography>
           </Grid>
 
           {/* Account */}

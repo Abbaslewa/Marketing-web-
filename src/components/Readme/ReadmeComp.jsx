@@ -67,20 +67,20 @@ const ReadmeComponent = () => {
             <div className="flex flex-row justify-between items-center h-16">
               <Typography variant="h6">
                 <span className="text-blue-500 hover:underline text-base md:text-lg">
-                  <a href="https://github.com/MMansy19/E-Commerce-Website">
-                    𝐀𝐩𝐩 𝐑𝐞𝐚𝐝𝐦𝐞
+                  <a href="https://github.com/abbaslewa">
+                   Abbas's 𝐀𝐩𝐩 𝐑𝐞𝐚𝐝𝐦𝐞
                   </a>
                 </span>
               </Typography>
 
               <IconButton>
                 <a
-                  href="https://github.com/MMansy19"
+                  href="https://github.com/abbaslewa"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <Avatar
-                    alt="Mahmoud Mansy"
+                    alt="Abbas Omer"
                     src={profilePic}
                     sx={{
                       width: isMobile ? "60px" : "70px",
@@ -106,7 +106,7 @@ const ReadmeComponent = () => {
                 className="text-gray-800"
                 style={{ fontSize: isMobile ? ".9rem" : "1.25rem" }}
               >
-                ⚡ 𝐈'𝐦 𝐚 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐑𝐞𝐚𝐜𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐰𝐢𝐭𝐡 𝟒𝟎+ 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
+                ⚡ 𝐈'𝐦 𝐚 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐑𝐞𝐚𝐜𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐰𝐢𝐭𝐡 2𝟎+ 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
               </Typography>
               <Typography
                 variant={isMobile ? "body2" : "body1"}

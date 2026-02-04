@@ -15,17 +15,17 @@ function FooterComponent() {
       <div className={styles.content}>
         <div className={styles.icons}>
           <Footer.Icon
-            href="https://www.linkedin.com/in/mahmoud-mansy-a189a5232/"
+            href="https://www.linkedin.com/in/abbas-omer-07ab13380/"
             icon={BsLinkedin}
           />
-          <Footer.Icon href="https://github.com/MMansy19/" icon={BsGithub} />
+          <Footer.Icon href="https://github.com/abbaslewa" icon={BsGithub} />
           <Footer.Icon
-            href="mailto:mahmoud2abdalfattah@gmail.com"
+            href="mailto:abbasomerhassn@gmail.com"
             icon={BsEnvelope}
           />
-          <Footer.Icon href="https://t.me/mah_moud_2003" icon={BsTelegram} />
+          <Footer.Icon href="https://github.com/abbaslewa" icon={BsTelegram} />
           <Footer.Icon
-            href="https://api.whatsapp.com/send/?phone=201010352387&text&type=phone_number&app_absent=0"
+            href="https://web.whatsapp.com/"
             icon={BsWhatsapp}
           />
         </div>
